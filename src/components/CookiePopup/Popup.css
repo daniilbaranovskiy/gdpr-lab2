@@ -1,0 +1,14 @@
+body {
+  background-color: #2d303c;
+}
+.site-name{
+  color: #ef754f;
+  text-align: center;
+  font-size: 120px;
+}
+.site-button{
+  color: #ef754f;
+}
+a{
+  color: #ef754f;
+}
